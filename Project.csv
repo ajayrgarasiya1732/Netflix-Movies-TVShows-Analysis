@@ -1,0 +1,39 @@
+Percentage of Type,,,,Ratings,,,Top 1 actors of Movies and TV Shows,,,Top 10 Countries,
+,,,,,,,,,,,
+TYPE,Percentage of Total,,,Rating,Count of rating,,Actors,Count of cast,,Country,Count of country
+Movie,69.62%,,,66 min,1,,Craig Sechler,6,,Canada,181
+TV Show,30.38%,,,74 min,1,,David Attenborough,19,,Egypt,106
+Grand Total,100.00%,,,84 min,1,,"David Spade, London Hughes, Fortune Feimster",6,,France,124
+,,,,G,41,,Jeff Dunham,7,,India,972
+,,,,NC-17,3,,Kevin Hart,6,,Japan,245
+Releases per Year,,,,NR,80,,"Michela Luci, Jamie Watson, Eric Peterson, Anna Claire Bartlam, Nicolas Aqui, Cory Doran, Julie Lemieux, Derek McGrath",6,,Mexico,110
+,,,,PG,287,,Samuel West,10,,South Korea,199
+Year,Count of release_year,,,PG-13,490,,"Vatsal Dubey, Julie Tejwani, Rupa Bhimani, Jigna Bhardwaj, Rajesh Kava, Mousam, Swapnil",14,,Spain,145
+1995,25,,,R,799,,Grand Total,74,,United Kingdom,419
+1996,24,,,TV-14,2160,,,,,United States,2818
+1997,38,,,TV-G,220,,,,,Grand Total,5319
+1998,36,,,TV-MA,3207,,,,,,
+1999,39,,,TV-PG,863,,,,,,
+2000,37,,,TV-Y,307,,,,,,
+2001,45,,,TV-Y7,334,,,,,,
+2002,51,,,TV-Y7-FV,6,,,,,,
+2003,61,,,UR,3,,,,,,
+2004,64,,,(blank),,,,,,,
+2005,80,,,Grand Total,8803,,,,,,
+2006,96,,,,,,,,,,
+2007,88,,,,,,,,,,
+2008,136,,,,,,,,,,
+2009,152,,,Top 10 Genre,,,Top 10 Directors,,,,
+2010,194,,,,,,,,,,
+2011,185,,,Genre,Count of listed_in,,Director,Count of director,,,
+2012,237,,,Children & Family Movies,215,,Cathy Garcia-Molina,13,,,
+2013,288,,,"Children & Family Movies, Comedies",201,,Jay Chapman,12,,,
+2014,352,,,"Comedies, Dramas, International Movies",274,,Jay Karas,14,,,
+2015,560,,,Documentaries,359,,Marcus Raboy,16,,,
+2016,902,,,"Documentaries, International Movies",186,,Martin Scorsese,12,,,
+2017,1032,,,"Dramas, Independent Movies, International Movies",252,,"Raúl Campos, Jan Suter",18,,,
+2018,1147,,,"Dramas, International Movies",362,,Rajiv Chilaka,19,,,
+2019,1030,,,"Dramas, International Movies, Romantic Movies",180,,Steven Spielberg,11,,,
+2020,953,,,Kids' TV,220,,Suhas Kadav,16,,,
+2021,592,,,Stand-Up Comedy,334,,Youssef Chahine,12,,,
+Grand Total,8444,,,Grand Total,2583,,Grand Total,143,,,
